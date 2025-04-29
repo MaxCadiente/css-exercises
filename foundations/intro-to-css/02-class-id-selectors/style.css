@@ -1,14 +1,18 @@
-.odd1,
-.odd5 {
+.odd {
     background-color: rgb(244, 174, 167);
-    font-size: 18px;
-    font-family: verdana, sans-serif,arial;
+    font-family: verdana, sans-serif, arial;
+}
+.three {
+    font-size: 24px;
 }
 
 #number2 {
-
+    color: rgb(0, 0, 255);
+    font-size: 36px;
 }
 
-#number3 {
-
+#number4 {
+    background-color: #90ee90;
+    font-size: 24;
+    font-weight: bold;
 }
